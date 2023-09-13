@@ -1,6 +1,6 @@
-# dubspay
+# naPaya
 
-A new Flutter project.
+A mobile banking services built in flutter and bloackchain .
 
 ## Getting Started
 
