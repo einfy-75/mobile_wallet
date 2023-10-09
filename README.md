@@ -1,6 +1,7 @@
-# naPaya
+# finmal
 
-A mobile banking services built in flutter and bloackchain .
+Decentralised machine learning credit score in flutter , easy data mining 
+
 
 ## Getting Started
 
